@@ -33,7 +33,29 @@ Raw pupillary, fixation data after processing annotations are included in the `d
 ### Processed Data
 Dataset after being processed using [Real-Time Advanced Eye Movements Analysis Pipeline (RAEMAP)](https://doi.org/10.1145/3379157.3391992) is included in `dataset/processed` folder, with (1) Gaze data and (2) Pupil data.
 
-#### File Content
+#### Gaze Data Content
+
+| Property            | Description |
+|---                  |---          |
+|`fxtn_count`         | Fixation count            |
+|`avg_fxtn_duration`  | Average fixation duration |
+|`total_fxtn_dur`     | Total fixation duration   |
+|`std_fxtn_dur`| |
+|`total_sacc_dur`| |
+|`avg_sacc_dur`| |
+|`max_sacc_amplitude`| |
+|`min_sacc_amplitude`| |
+|`avg_sacc_amplitude`| |
+|`std_sacc_amplitude`| |
+
+#### Pupil Data Content
+
+|Property       | Desctiption   |
+|---            |---            |
+|`LHIPA`|[The Low/High Index of Pupillary Activity](https://doi.org/10.1145/3313831.3376394) |
+|`pavg`| |
+|`pcpd`| |
+
 
 
 ## Cite
