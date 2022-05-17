@@ -62,19 +62,51 @@ Dataset after being processed using [Real-Time Advanced Eye Movements Analysis P
 If you're using this dataset in your research, please cite following publication.
 ```
 @inproceedings{10.1145/3517031.3531630,
-author = {Mahanama, Bhanuka and Jayawardena, Gavindya and and Abeysinghe, Yasasi and Ashok, Vika and Jayarathna, Sampath},
-title = {Multidisciplinary Reading Patterns of Digital Documents},
-year = {2022},
-isbn = {978-1-4503-9252-5/22/06},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3517031.3531630},
-doi = {10.1145/3517031.3531630},
-booktitle = {Proceedings of the 2022 Symposium on Eye Tracking Research and Applications},
-location = {Seattle, WA, USA},
-series = {ETRA '22}
+  author = {Mahanama, Bhanuka and Jayawardena, Gavindya and and Abeysinghe, Yasasi and Ashok, Vika and Jayarathna, Sampath},
+  title = {Multidisciplinary Reading Patterns of Digital Documents},
+  year = {2022},
+  isbn = {978-1-4503-9252-5/22/06},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3517031.3531630},
+  doi = {10.1145/3517031.3531630},
+  booktitle = {Proceedings of the 2022 Symposium on Eye Tracking Research and Applications},
+  location = {Seattle, WA, USA},
+  series = {ETRA '22}
 }
 ```
+
+### Similar Studies
+1. **[Analyzing the Effect of Reading Patterns using Eye Tracking Measures](https://doi.org/10.1145/3383583.3398591)**
+```
+@inproceedings{10.1145/3383583.3398591,
+  author = {Jayawardena, Gavindya and Jayarathna, Sampath and Wu, Jian},
+  title = {Analyzing the Effect of Reading Patterns Using Eye Tracking Measures},
+  year = {2020},
+  isbn = {9781450375856},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3383583.3398591},
+  booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020},
+  pages = {517–518}
+}
+```
+
+2. **[Analyzing Unconstrained Reading Patterns of Digital Documents Using Eye Tracking](https://doi.org/10.1109/JCDL52503.2021.00036)**
+
+```
+@INPROCEEDINGS{10.1109/JCDL52503.2021.00036,
+  author={Mahanama, Bhanuka and Jayawardena, Gavindya and Jayarathna, Sampath},
+  booktitle={2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+  title={Analyzing Unconstrained Reading Patterns of Digital Documents Using Eye Tracking},
+  year={2021},
+  pages={282-283},
+  doi={10.1109/JCDL52503.2021.00036},
+  organization={IEEE}
+}
+
+```
+
 
 ## Contact
 * Twitter: [@NirdsLab](https://twitter.com/NirdsLab/)
